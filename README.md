@@ -4,7 +4,7 @@ This project was built as a part of SPL course at Ben Gurion University.
 You can learn more about my implementation for this project in bonuses.txt file.
 
 ## Usage
-Run Set_Card_Game.jar executable file.
+Download and run Set_Card_Game.jar executable file.
 
 ## Game Properties
 In the file "src/main/resources/config.properties" you can modify the game properties as you want.
