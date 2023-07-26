@@ -6,7 +6,7 @@ You can learn more about this implementation in bonuses.txt file.
 ## Usage
 Run Set_Card_Game.jar executable file.
 
-## Properties File
+## Modify Game Properties
 In the file "src/main/resources/config.properties" you can modify the game properties as you want.
 
 ## Credits
