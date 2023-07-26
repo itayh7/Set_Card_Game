@@ -1,0 +1,57 @@
+[23:49:23.515] [INFO   ] thread main starting.
+[23:49:23.522] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[23:49:23.525] [SEVERE ] configuration file was loaded from resources directory.
+[23:49:24.821] [INFO   ] thread dealer starting.
+[23:49:24.843] [INFO   ] Thread dealer starting.
+[23:49:24.860] [INFO   ] Thread player_0starting.
+[23:49:24.872] [INFO   ] Thread player_1starting.
+[23:49:24.899] [INFO   ] Thread player_2starting.
+[23:49:24.911] [INFO   ] Thread player_3starting.
+[23:49:24.913] [INFO   ] Thread computer-3 starting.
+[23:49:24.914] [INFO   ] Thread computer-2 starting.
+[23:49:25.443] [SEVERE ] placing card 4 in slot 8
+[23:49:25.953] [SEVERE ] placing card 79 in slot 7
+[23:49:26.454] [SEVERE ] placing card 20 in slot 0
+[23:49:26.955] [SEVERE ] placing card 55 in slot 10
+[23:49:27.457] [SEVERE ] placing card 42 in slot 9
+[23:49:27.958] [SEVERE ] placing card 48 in slot 11
+[23:49:28.228] [SEVERE ] exit button pressed
+[23:49:28.229] [INFO   ] Thread player_0 terminated.
+[23:49:28.229] [INFO   ] Thread player_1 terminated.
+[23:49:28.230] [INFO   ] Thread computer-2 terminated.
+[23:49:28.231] [SEVERE ] placing card 7 in slot 1
+[23:49:28.231] [INFO   ] Thread player_2 terminated.
+[23:49:28.231] [INFO   ] Thread computer-3 terminated.
+[23:49:28.232] [INFO   ] Thread player_3 terminated.
+[23:49:28.732] [SEVERE ] placing card 23 in slot 6
+[23:49:29.233] [SEVERE ] placing card 14 in slot 2
+[23:49:29.734] [SEVERE ] placing card 45 in slot 3
+[23:49:30.235] [SEVERE ] placing card 31 in slot 5
+[23:49:30.737] [SEVERE ] placing card 58 in slot 4
+[23:49:30.738] [SEVERE ] updating countdown to 60700
+[23:49:30.740] [SEVERE ] setting player 1 freeze to -1690404570740
+[23:49:30.740] [SEVERE ] setting player 2 freeze to -1690404570740
+[23:49:30.741] [SEVERE ] setting player 3 freeze to -1690404570741
+[23:49:30.741] [SEVERE ] setting player 4 freeze to -1690404570741
+[23:49:30.763] [SEVERE ] updating countdown to 60675
+[23:49:30.763] [SEVERE ] setting player 1 freeze to -1690404570763
+[23:49:30.763] [SEVERE ] setting player 2 freeze to -1690404570763
+[23:49:30.763] [SEVERE ] setting player 3 freeze to -1690404570763
+[23:49:30.764] [SEVERE ] setting player 4 freeze to -1690404570764
+[23:49:31.265] [SEVERE ] removing card from slot 4
+[23:49:31.770] [SEVERE ] removing card from slot 8
+[23:49:32.271] [SEVERE ] removing card from slot 2
+[23:49:32.772] [SEVERE ] removing card from slot 10
+[23:49:33.275] [SEVERE ] removing card from slot 11
+[23:49:33.777] [SEVERE ] removing card from slot 9
+[23:49:34.278] [SEVERE ] removing card from slot 3
+[23:49:34.785] [SEVERE ] removing card from slot 1
+[23:49:35.285] [SEVERE ] removing card from slot 7
+[23:49:35.786] [SEVERE ] removing card from slot 0
+[23:49:36.287] [SEVERE ] removing card from slot 5
+[23:49:36.788] [SEVERE ] removing card from slot 6
+[23:49:36.789] [SEVERE ] announcing winner(s): player 1, player 2, player 3, player 4
+[23:49:36.791] [INFO   ] Thread dealer terminated.
+[23:49:36.801] [INFO   ] thread dealer terminated.
+[23:49:36.803] [SEVERE ] thanks for playing... it was fun!
+[23:49:36.803] [INFO   ] thread main terminated.
